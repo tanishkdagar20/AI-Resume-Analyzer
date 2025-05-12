@@ -1,0 +1,5 @@
+{
+  "technical": ["python", "java", "c++", "sql", "javascript", "react", "node.js", "tensorflow", "docker"],
+  "soft": ["communication", "leadership", "teamwork", "problem-solving", "time management"],
+  "domain": ["project management", "business analysis", "financial modeling", "machine learning", "data analysis"]
+}
